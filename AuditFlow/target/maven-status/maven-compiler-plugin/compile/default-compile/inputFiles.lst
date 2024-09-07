@@ -1,0 +1,13 @@
+/home/akshay-56n/eclipse-workspace/AuditFlow/src/main/java/com/auditflow/entity/BaseEntity.java
+/home/akshay-56n/eclipse-workspace/AuditFlow/src/main/java/com/auditflow/repository/AuditLogRepository.java
+/home/akshay-56n/eclipse-workspace/AuditFlow/src/main/java/com/auditflow/repository/ProductRepository.java
+/home/akshay-56n/eclipse-workspace/AuditFlow/src/main/java/com/auditflow/entity/AuditLog.java
+/home/akshay-56n/eclipse-workspace/AuditFlow/src/main/java/com/auditflow/config/KafkaConfig.java
+/home/akshay-56n/eclipse-workspace/AuditFlow/src/main/java/com/auditflow/service/ProductService.java
+/home/akshay-56n/eclipse-workspace/AuditFlow/src/main/java/com/auditflow/entity/Category.java
+/home/akshay-56n/eclipse-workspace/AuditFlow/src/main/java/com/auditflow/dto/ProductRequestDto.java
+/home/akshay-56n/eclipse-workspace/AuditFlow/src/main/java/com/auditflow/controller/ProductController.java
+/home/akshay-56n/eclipse-workspace/AuditFlow/src/main/java/com/auditflow/entity/Product.java
+/home/akshay-56n/eclipse-workspace/AuditFlow/src/main/java/com/auditflow/repository/CategoryRepository.java
+/home/akshay-56n/eclipse-workspace/AuditFlow/src/main/java/com/auditflow/AuditFlowApplication.java
+/home/akshay-56n/eclipse-workspace/AuditFlow/src/main/java/com/auditflow/service/AuditService.java
